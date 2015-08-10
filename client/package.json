@@ -1,0 +1,13 @@
+{
+  "name": "mcs-visualization-client",
+  "version": "0.0.1",
+  "description": "Streaming data visualization for the MCS electrode array",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niru Maheswaranathan",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
